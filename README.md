@@ -1,54 +1,5 @@
-# entrepreneur-ceo
+# edXius
 
-This how I learn to think like an entrepreneur, act like a ceo
+Challenge for me!
 
-- [ ] To Launch Something New, You Need a Good Plan
-- [ ] Think Like an Entrepreneur, Wherever You Are
-- [ ] Listening Is Your Sure Fire, Go-to Career Strategy
-- [ ] Tweak Your Brand to Send Clear Messages
-- [ ] Start Now to Build Leadership into Your Brand
-- [ ] Power up by Tweaking Your Personal Style
-- [ ] Talk Back to the Voice in Your Head
-- [ ] How Do Other People Get Self-Discipline?
-- [ ] How and Why to Keep Smiling
-- [ ] The Real Meaning of “Networking” May Surprise You
-- [ ] What to Say When Your Work Is Praised
-- [ ] Give Positive Feedback in Smart Ways
-- [ ] Get Over Your Fear of Looking Like a Suck-Up
-- [ ] Use Games to Create Power and Direction
-- [ ] Be Prepared with Clever Ways to Brag
-- [ ] Get the “It” Factor: Create Presence
-- [ ] To Make a Career Shift, Start with One Grain of Sugar
-- [ ] How to Take a Career Side Step, One Sugar Grain at a Time
-- [ ] Those Annoying Speech Habits May Cost You
-- [ ] Does Your Calendar Support Your Success?
-- [ ] Prioritize Your Priorities
-- [ ] Getting Your Boss to Listen
-- [ ] Leading Upward: Manage the Boss, in a Good Way
-- [ ] The Jimmy Fallon Touch: Good Manners Help You Shine
-- [ ] Do’s and Don’ts of Saying “Sorry”
-- [ ] Find the Magic 20 Percent
-- [ ] How to Create Mentoring that Works Both Ways
-- [ ] Don’t Be Sabotaged by Your Own Frustration
-- [ ] Yes, You Can Do Something about Difficult Colleagues
-- [ ] Find or Build Communities
-- [ ] Make Your Meeting Time More Productive
-- [ ] How to Love Your Work Again
-- [ ] Make Social Media Work for You
-- [ ] Stress Is Contagious and Debilitating—but Manageable
-- [ ] Snap Out of It: Coping with Career Rejection
-- [ ] How to Foster Great Teams, Even If You’re Not the Leader
-- [ ] Celebrate Your Wins and Theirs
-- [ ] It’s (Usually) Not Okay to Be Late
-- [ ] Measuring Progress Makes Your Goals Powerful
-- [ ] Use Those Amazing Checklists
-- [ ] Overcome Big Project Letdown
-- [ ] Know When to Forget about Status
-- [ ] To Lead without Authority, Know How to Herd Cats
-- [ ] How Bigger Goals Can Take You Further
-- [ ] You Might Hesitate, but Keep Going
-- [ ] Ageism Is Real: Deal With It Sooner than Later
-- [ ] How to Stay Steady When Change Is Constant
-- [ ] Art Can Boost Your Creativity at Work
-- [ ] The Right Way to Move On
-- [ ] Choose to Be an Optimist
+- [Survival Mode!](https://github.com/ariestiyansyah/edXius/issues/1)
